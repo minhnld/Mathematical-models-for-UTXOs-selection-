@@ -1,0 +1,182 @@
+5ad448a959678302d59e6f75 is OK
+5ad44a26ce94cf05c955f860 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad44bb0ce94cf05c955f861 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad44bfdce94cf05c955f862 is OK
+5ad44d35ce94cf05c955f863 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad44e0ece94cf05c955f864 is OK
+5ad44e1bce94cf05c955f865 is OK
+5ad44edbce94cf05c955f866 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad44f00ce94cf05c955f867 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4503ece94cf05c955f868 is OK
+5ad45148ce94cf05c955f869 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4517cce94cf05c955f86a is OK
+5ad4519cce94cf05c955f86b is OK
+5ad45307ce94cf05c955f86c is OK
+5ad45353ce94cf05c955f86d is OK
+5ad4537ece94cf05c955f86e is OK
+5ad45471ce94cf05c955f86f is OK
+5ad45a854c372215dd13d61b is OK
+5ad45aac4c372215dd13d61c is OK
+5ad45bc64c372215dd13d61d is OK
+5ad45dbb4c372215dd13d61e is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad45ec84c372215dd13d61f is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad45f554c372215dd13d620 is OK
+5ad460064c372215dd13d621 is OK
+5ad4601c4c372215dd13d622 is OK
+5ad460274c372215dd13d623 is OK
+5ad462634c372215dd13d624 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad462d64c372215dd13d625 is OK
+5ad464274c372215dd13d626 is OK
+5ad466074c372215dd13d627 is OK
+5ad466964c372215dd13d628 is OK
+5ad466b84c372215dd13d629 is OK
+5ad467694c372215dd13d62a is OK
+5ad467f14c372215dd13d62b is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad468234c372215dd13d62c is OK
+5ad4695c4c372215dd13d62d is SKIP with CAUSE: vout's value == 0
+5ad469f14c372215dd13d62e is OK
+5ad46b5f4c372215dd13d62f is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad46c154c372215dd13d630 is OK
+5ad46c3a4c372215dd13d631 is OK
+5ad46ca84c372215dd13d632 is OK
+5ad46ec14c372215dd13d633 is OK
+5ad46ef24c372215dd13d634 is OK
+5ad470074c372215dd13d635 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4701a4c372215dd13d636 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4705b4c372215dd13d637 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad471284c372215dd13d638 is OK
+5ad471b84c372215dd13d639 is OK
+5ad472484c372215dd13d63a is OK
+5ad472ba4c372215dd13d63b is OK
+5ad472c54c372215dd13d63c is OK
+5ad473814c372215dd13d63d is OK
+5ad4739d4c372215dd13d63e is OK
+5ad4742c4c372215dd13d63f is OK
+5ad474d64c372215dd13d640 is OK
+5ad475124c372215dd13d641 is OK
+5ad4758c4c372215dd13d642 is OK
+5ad476594c372215dd13d643 is OK
+5ad476844c372215dd13d644 is OK
+5ad476fb4c372215dd13d645 is OK
+5ad477294c372215dd13d646 is OK
+5ad4778d4c372215dd13d647 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4791c4c372215dd13d648 is OK
+5ad4796d4c372215dd13d649 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad47be34c372215dd13d64a is OK
+5ad47d4b4c372215dd13d64b is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad47d664c372215dd13d64c is OK
+5ad47dc44c372215dd13d64d is OK
+5ad47eb64c372215dd13d64e is OK
+5ad47f9d4c372215dd13d64f is OK
+5ad481874c372215dd13d650 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad484584c372215dd13d651 is OK
+5ad484ba4c372215dd13d652 is OK
+5ad485024c372215dd13d653 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad486864c372215dd13d654 is OK
+5ad486964c372215dd13d655 is OK
+5ad4874d4c372215dd13d656 is OK
+5ad487e34c372215dd13d657 is OK
+5ad4884f4c372215dd13d658 is OK
+5ad489674c372215dd13d659 is OK
+5ad489a44c372215dd13d65a is SKIP with CAUSE: vout's value == 0
+5ad489ba4c372215dd13d65b is OK
+5ad48ad14c372215dd13d65c is OK
+5ad48afa4c372215dd13d65d is OK
+5ad48b864c372215dd13d65e is OK
+5ad48dac4c372215dd13d65f is OK
+5ad48de24c372215dd13d660 is OK
+5ad48e444c372215dd13d661 is OK
+5ad48e5e4c372215dd13d662 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad48f254c372215dd13d663 is OK
+5ad48f8a4c372215dd13d664 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad490a54c372215dd13d665 is OK
+5ad491554c372215dd13d666 is OK
+5ad492534c372215dd13d667 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad492cd4c372215dd13d668 is OK
+5ad4933b4c372215dd13d669 is OK
+5ad494f14c372215dd13d66a is OK
+5ad495554c372215dd13d66b is OK
+5ad4957e4c372215dd13d66c is OK
+5ad497514c372215dd13d66d is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad498914c372215dd13d66e is OK
+5ad4990e4c372215dd13d66f is OK
+5ad499f44c372215dd13d670 is OK
+5ad49b514c372215dd13d671 is OK
+5ad49caa4c372215dd13d672 is OK
+5ad49d084c372215dd13d673 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad49d114c372215dd13d674 is SKIP with CAUSE: vout's value == 0
+5ad49d7e4c372215dd13d675 is SKIP with CAUSE: vout's value == 0
+5ad49e5c4c372215dd13d676 is OK
+5ad49ea34c372215dd13d677 is OK
+5ad49f644c372215dd13d678 is OK
+5ad49faf4c372215dd13d679 is OK
+5ad49fd24c372215dd13d67a is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad49fdb4c372215dd13d67b is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad49fe34c372215dd13d67c is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad49fed4c372215dd13d67d is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad49ff94c372215dd13d67e is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4a0064c372215dd13d67f is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4a00f4c372215dd13d680 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4a0184c372215dd13d681 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4a0214c372215dd13d682 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4a02d4c372215dd13d683 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4a0394c372215dd13d684 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4a25d4c372215dd13d685 is OK
+5ad4a2ec4c372215dd13d686 is OK
+5ad4a3084c372215dd13d687 is OK
+5ad4a4934c372215dd13d688 is OK
+5ad4a6d94c372215dd13d689 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4a74f4c372215dd13d68a is OK
+5ad4a9e64c372215dd13d68b is OK
+5ad4aa604c372215dd13d68c is OK
+5ad4aacf4c372215dd13d68d is OK
+5ad4ab444c372215dd13d68e is OK
+5ad4abb84c372215dd13d68f is OK
+5ad4abfe4c372215dd13d690 is OK
+5ad4ac0f4c372215dd13d691 is OK
+5ad4ac8e4c372215dd13d692 is OK
+5ad4acaf4c372215dd13d693 is OK
+5ad4ad324c372215dd13d694 is OK
+5ad4ad534c372215dd13d695 is OK
+5ad4ad714c372215dd13d696 is OK
+5ad4ada24c372215dd13d697 is OK
+5ad4ae9d4c372215dd13d698 is OK
+5ad4afbe4c372215dd13d699 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4b00c4c372215dd13d69a is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4b06e4c372215dd13d69b is OK
+5ad4b1224c372215dd13d69c is OK
+5ad4b16e4c372215dd13d69d is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4b2664c372215dd13d69e is OK
+5ad4b33c4c372215dd13d69f is OK
+5ad4b3884c372215dd13d6a0 is OK
+5ad4b4b54c372215dd13d6a1 is OK
+5ad4b5034c372215dd13d6a2 is OK
+5ad4b5fb4c372215dd13d6a3 is OK
+5ad4b6704c372215dd13d6a4 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4b75f4c372215dd13d6a5 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4b7ce4c372215dd13d6a6 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4b8154c372215dd13d6a7 is OK
+5ad4b8d74c372215dd13d6a8 is OK
+5ad4b9324c372215dd13d6a9 is OK
+5ad4b9644c372215dd13d6aa is OK
+5ad4ba104c372215dd13d6ab is OK
+5ad4baab4c372215dd13d6ac is OK
+5ad4bb5b4c372215dd13d6ad is OK
+5ad4bc7b4c372215dd13d6ae is OK
+5ad4bcc54c372215dd13d6af is OK
+5ad4bcf94c372215dd13d6b0 is OK
+5ad4bd8a4c372215dd13d6b1 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4bd964c372215dd13d6b2 is OK
+5ad4bdd74c372215dd13d6b3 is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4be974c372215dd13d6b4 is OK
+5ad4bf004c372215dd13d6b5 is OK
+5ad4bf7f4c372215dd13d6b6 is OK
+5ad4bfd94c372215dd13d6b7 is OK
+5ad4c0d94c372215dd13d6b8 is OK
+5ad4c1be4c372215dd13d6b9 is OK
+5ad4c2c64c372215dd13d6ba is SKIP with CAUSE: utxo's type != pubkeyhash
+5ad4c4144c372215dd13d6bb is OK
+5ad4c5ad4c372215dd13d6bc is OK
+5ad4c6024c372215dd13d6bd is OK
+5ad4cb594c372215dd13d6be is OK
+5ad4cb834c372215dd13d6bf is OK

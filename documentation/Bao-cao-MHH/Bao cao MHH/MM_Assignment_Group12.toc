@@ -1,0 +1,6 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u}{2}{section.1}% 
+\contentsline {section}{\numberline {2}X\IeC {\^a}y d\IeC {\d \uhorn }ng v\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex }}{2}{section.2}% 
+\contentsline {section}{\numberline {3}\IeC {\DJ }\IeC {\`\ecircumflex } xu\IeC {\'\acircumflex }t m\IeC {\^o} h\IeC {\`\i }nh to\IeC {\'a}n}{3}{section.3}% 
+\contentsline {section}{\numberline {4}\IeC {\DJ }\IeC {\'a}nh gi\IeC {\'a} nh\IeC {\~\uhorn }ng k\IeC {\'\ecircumflex }t qu\IeC {\h a} \IeC {\dj }\IeC {\~a} \IeC {\dj }\IeC {\uhorn }\IeC {\d \ohorn }c hi\IeC {\d \ecircumflex }n th\IeC {\d \uhorn }c}{4}{section.4}% 
+\contentsline {section}{\numberline {5}Conclusion}{11}{section.5}% 
